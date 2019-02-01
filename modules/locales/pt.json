@@ -1,0 +1,12 @@
+{
+  "HOSTSPathNotFound": "Variável `HOSTSPATH` não encontrada",
+  "TCLPathNotFound": "Variável `TCLPATH` não encontrada",
+  "TCLError": "Erro na alteração do template da TC Local",
+  "TCLSwitchOk": "Diretório Templates alterado para o projeto %s",
+  "TCLCreateOk": "Criado o diretório `templates-%s` na TC Local",
+  "HOSTSError": "Erro na mudança do arquivo de hosts",
+  "HOSTSSwitchOk": "Arquivo de hosts alterado para o projeto %s",
+  "HOSTSCreateOk": "Criado o arquivo `%s.hosts` no diretório de HOSTS",
+  "EPERM": "É preciso de acesso ao administrador para criar link simbólico.",
+  "EACCES": "É preciso de acesso ao administrador para criar link simbólico."
+}

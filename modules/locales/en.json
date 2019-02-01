@@ -1,0 +1,12 @@
+{
+  "HOSTSPathNotFound": "Environment `HOSTSPATH` variable not found",
+  "TCLPathNotFound": "Environment `TCLPATH` variable not found",
+  "TCLError": "Error when changing the TCL template directory",
+  "TCLSwitchOk": "Templates directory switched to the %s project",
+  "TCLCreateOk": "Created the `templates-%s` directory under the TCL dir",
+  "HOSTSError": "Error when changing the HOSTS file",
+  "HOSTSSwitchOk": "HOSTS file switched to the %s project",
+  "HOSTSCreateOk": "Created the `%s.hosts` file under the HOSTS dir",
+  "EPERM": "It needs admin access to create the symbolic link",
+  "EACCES": "It needs admin access to create the symbolic link"
+}

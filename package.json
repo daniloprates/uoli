@@ -1,0 +1,35 @@
+{
+  "name": "uoli",
+  "version": "1.0.7",
+  "description": "Quickly switch between projects, changing the HOSTS file and the Templatecache templates",
+  "main": "index.js",
+  "bin": {
+    "uoli": "./index.js"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniloprates/uoli.git"
+  },
+  "keywords": [],
+  "author": "Danilo Prates <daniloprates@gmail.com> (https://github.com/daniloprates)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daniloprates/uoli/issues"
+  },
+  "homepage": "https://github.com/daniloprates/uoli#readme",
+  "devDependencies": {
+    "should": "^11.1.2"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs-extra": "^1.0.0",
+    "i18n": "^0.8.3",
+    "rimraf": "^2.5.4"
+  }
+}
